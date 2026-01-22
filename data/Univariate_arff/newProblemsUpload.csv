@@ -1,0 +1,44 @@
+ID,Dataset,Donator1,Donator2,Train_size,Test_size,Length,Number_of_classes,Type,Best_algorithm,Best_acc,Original_source,Paper_first_used,Image,Description,First_link,Second_link,First_used_TSC,TimeStamp,Multivariate,Dimensions
+86,ACSF1,P. Schafer,,100,100,1460,10,,,,,,,,,,,,1,9
+87,AllGestureWiimoteX,J. Guna,,300,700,Vary,10,,,,,,,,,,,,1,2
+88,AllGestureWiimoteY,J. Guna,,300,700,Vary,10,,,,,,,,,,,,1,6
+89,AllGestureWiimoteZ,J. Guna,,300,700,Vary,10,,,,,,,,,,,,1,3
+90,BME,Université Joseph Fourier ,,30,150,128,3,,,,,,,,,,,,1,6
+91,EthanolLevel,T. Bagnall,,504,500,1751,4,,,,,,,,,,,,1,1345
+92,FreezerRegularTrain,REFIT project,,150,2850,301,2,,,,,,,,,,,,1,6
+93,FreezerSmallTrain,REFIT project,,28,2850,301,2,,,,,,,,,,,,1,3
+94,GunPointAgeSpan,A. Ratanamahatana & E. Keogh,,135,316,150,2,,,,,,,,,,,,1,3
+95,GunPointMaleVersusFemale,A. Ratanamahatana & E. Keogh,,135,316,150,2,,,,,,,,,,,,1,4
+96,GunPointOldVersusYoung,A. Ratanamahatana & E. Keogh,,135,316,150,2,,,,,,,,,,,,1,144
+97,InsectEPGRegularTrain,E. Keogh & S. Gharghabi,,62,249,601,3,,,,,,,,,,,,1,28
+98,InsectEPGSmallTrain,E. Keogh & S. Gharghabi,,17,249,601,3,,,,,,,,,,,,1,10
+99,PickupGestureWiimoteZ,J. Guna,,50,50,Vary,10,,,,,,,,,,,,1,3
+100,PigAirwayPressure,M. Guillame-Bert,,104,208,2000,52,,,,,,,,,,,,1,61
+101,PigArtPressure,M. Guillame-Bert,,104,208,2000,52,,,,,,,,,,,,1,200
+102,PigCVP,M. Guillame-Bert,,104,208,2000,52,,,,,,,,,,,,1,12
+103,PLAID,P. Schafer,,537,537,Vary,11,,,,,,,,,,,,1,2
+104,PowerCons,"EDF R&D, France",,180,180,144,2,,,,,,,,,,,,1,6
+105,ShakeGestureWiimoteZ,J. Guna,,50,50,Vary,10,,,,,,,,,,,,1,64
+106,SmoothSubspace,X. Huang,,150,150,15,3,,,,,,,,,,,,1,24
+107,UMD,Université Joseph Fourier ,,36,144,150,3,,,,,,,,,,,,1,2
+108,Fungi,W. Fonzi,,18,186,201,18,,,,,,,,,,,,1,963
+109,GesturePebbleZ1,I. Maglogiannis,,132,172,Vary,6,,,,,,,,,,,,1,11
+110,GesturePebbleZ2,I. Maglogiannis,,146,158,Vary,6,,,,,,,,,,,,1,6
+111,HouseTwenty,E. Keogh & S. Gharghabi,,34,101,3000,2,,,,,,,,,,,,1,6
+112,DodgerLoopDay,C.-C. M. Yeh,,78,80,288,7,,,,,,,,,,,,1,7
+113,DodgerLoopWeekend,C.-C. M. Yeh,,20,138,288,2,,,,,,,,,,,,1,13
+114,DodgerLoopGame,C.-C. M. Yeh,,20,138,288,2,,,,,,,,,,,,1,4
+115,SemgHandGenderCh2,C.-C. M. Yeh,,300,600,1500,2,,,,,,,,,,,,1,3
+116,SemgHandMovementCh2,C.-C. M. Yeh,,450,450,1500,6,,,,,,,,,,,,,
+117,SemgHandSubjectCh2,C.-C. M. Yeh,,450,450,1500,5,,,,,,,,,,,,,
+118,MixedShapes,E. Keogh,,500,2425,1024,5,,,,,,,,,,,,,
+119,MixedShapesSmallTrain,E. Keogh,,100,2425,1024,5,,,,,,,,,,,,,
+120,EOGHorizontalSignal,E. Keogh & H. A. Dau,,362,362,1250,12,,,,,,,,,,,,,
+121,EOGVerticalSignal,E. Keogh & H. A. Dau,,362,362,1250,12,,,,,,,,,,,,,
+122,GestureMidAirD1,H. A. Dau,,208,130,360,26,,,,,,,,,,,,,
+123,GestureMidAirD2,H. A. Dau,,208,130,360,26,,,,,,,,,,,,,
+124,GestureMidAirD3,H. A. Dau,,208,130,360,26,,,,,,,,,,,,,
+125,Rock,Y. Zhu,,20,50,2844,4,,,,,,,,,,,,,
+126,Crop,F. Petitjean,,7200,16800,46,24,,,,,,,,,,,,,
+127,Chinatown,H.A. Dau,,20,345,24,2,,,,,,,,,,,,,
+128,MelbournePedestrian,H.A. Dau,,1200,2450,24,10,,,,,,,,,,,,,
